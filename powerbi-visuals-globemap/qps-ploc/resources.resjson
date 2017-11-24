@@ -1,13 +1,13 @@
 {
-  "Role_DisplayName_Location": "[Qn3qe][ðÒLocation !!! ]",
-  "Role_DisplayName_Group": "[h4PkF][åóGroup !!!]",
-  "Role_DisplayName_Longitude": "[Crd7I][ÐÖLongitude !!! ]",
-  "Role_DisplayName_Latitude": "[qyMMJ][ÚÌLatitude !!! ]",
-  "Role_DisplayName_BarHeight": "[HEXJM][ÈÎBar Height !!! !]",
-  "Role_DisplayName_HeatIntensity": "[8AaLX][ñûHeat Intensity !!! !!]",
-  "Visual_DataPoint": "[BEEkJ][ýÓData colors !!! !]",
-  "Visual_DefaultColor": "[7CSlE][ô§Default color !!! !!]",
-  "Visual_DataPoint_Show_All": "[lg6Pg][ÞäShow all !!! ]",
-  "Visual_Fill": "[3TJ8o][ÎâFill !!]",
-  "Visual_Gradient": "[KpRsT][öøColor saturation !!! !!!]"
+  "Role_DisplayName_Location": "[Qn3qe][ì§Location !!! ]",
+  "Role_DisplayName_Group": "[h4PkF][ÂÞGroup !!!]",
+  "Role_DisplayName_Longitude": "[Crd7I][áéLongitude !!! ]",
+  "Role_DisplayName_Latitude": "[qyMMJ][ÝÑLatitude !!! ]",
+  "Role_DisplayName_BarHeight": "[HEXJM][@ôBar Height !!! !]",
+  "Role_DisplayName_HeatIntensity": "[8AaLX][âïHeat Intensity !!! !!]",
+  "Visual_DataPoint": "[BEEkJ][ªöData colors !!! !]",
+  "Visual_DefaultColor": "[7CSlE][åÖDefault color !!! !!]",
+  "Visual_DataPoint_Show_All": "[lg6Pg][òÀShow all !!! ]",
+  "Visual_Fill": "[3TJ8o][åÓFill !!]",
+  "Visual_Gradient": "[KpRsT][öÄColor saturation !!! !!!]"
 }
